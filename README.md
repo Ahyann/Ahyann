@@ -11,15 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/_ahyannn" target="_blank">
+  <a href="https://instagram.com/_ahyannn">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="https://tiktok.com/@_ahyannn" target="_blank">
+  <a href="https://tiktok.com/@_ahyannn">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 
-  <a href="https://www.linkedin.com/in/ahyan-n-369458374" target="_blank">
+  <a href="https://www.linkedin.com/in/ahyan-n-369458374">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
