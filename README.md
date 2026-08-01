@@ -17,8 +17,8 @@
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://tiktok.com/@_ahyannn" target="_blank">
-    <img src="https://img.shields.co/badge/-Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="40" alt="TikTok"/>
+  <a href="https://tiktok.com/@_ahyannn">
+    <img src="https://cdn.simpleicons.org/tiktok/white" width="45" alt="TikTok"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahyan-n-369458374" target="_blank">
