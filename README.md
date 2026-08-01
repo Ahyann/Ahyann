@@ -12,15 +12,15 @@
 
 <p align="center">
   <a href="https://instagram.com/_ahyannn">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45">
   </a>
   <a href="https://tiktok.com/@_ahyannn">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+    <img src="https://cdn.simpleicons.org/tiktok/white" height="45">
   </a>
-  <a href="https://www.linkedin.com/in/ahyan-n-369458374">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/ahyan-n-369458374">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45">
   </a>
   <a href="mailto:ahyannubaid1003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45">
   </a>
 </p>
