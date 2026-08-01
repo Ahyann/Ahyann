@@ -10,7 +10,7 @@
   improving my development skills, and creating impactful digital experiences.
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://instagram.com/_ahyannn" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram"/>
   </a>
@@ -26,4 +26,4 @@
   <a href="mailto:ahyannubaid1003@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail"/>
   </a>
-</p>
+</div>
