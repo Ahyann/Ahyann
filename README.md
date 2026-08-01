@@ -10,20 +10,12 @@
   improving my development skills, and creating impactful digital experiences.
 </p>
 
-<div align="center">
-  <a href="https://instagram.com/_ahyannn" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram"/>
-  </a>
+<p align="center">
+  <a href="https://instagram.com/_ahyannn" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram"/></a>
   &nbsp;&nbsp;
-  <a href="https://tiktok.com/@_ahyannn" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/tiktok/white" width="30" alt="TikTok"/>
-  </a>
+  <a href="https://tiktok.com/@_ahyannn" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" width="36" align="center" alt="TikTok"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahyan-n-369458374" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ahyan-n-369458374" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:ahyannubaid1003@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail"/>
-  </a>
-</div>
+  <a href="mailto:ahyannubaid1003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail"/></a>
+</p>
