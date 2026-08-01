@@ -10,17 +10,22 @@
   improving my development skills, and creating impactful digital experiences.
 </p>
 
+<br/>
+
 <p align="center">
-  <a href="https://instagram.com/_ahyannn">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
+  <a href="https://instagram.com/_ahyannn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
   </a>
-  <a href="https://tiktok.com/@_ahyannn">
-    <img src="https://cdn.simpleicons.org/tiktok/white" width="45" alt="TikTok"/>
+  &nbsp;&nbsp;
+  <a href="https://tiktok.com/@_ahyannn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tiktok" width="40" alt="TikTok"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahyan-n-369458374">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahyan-n-369458374" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ahyannubaid1003@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
   </a>
 </p>
