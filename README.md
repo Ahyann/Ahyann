@@ -14,18 +14,18 @@
 
 <p align="center">
   <a href="https://instagram.com/_ahyannn" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-social-icons/main/singlecolor/dark/instagram.svg" width="35" height="35" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://tiktok.com/@_ahyannn" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-social-icons/main/singlecolor/dark/tiktok.svg" width="35" height="35" alt="TikTok"/>
+    <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" height="40" alt="TikTok"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahyan-n-369458374" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-social-icons/main/singlecolor/dark/linkedin.svg" width="35" height="35" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-social-icons/main/singlecolor/dark/gmail.svg" width="35" height="35" alt="Email"/>
+  &nbsp;&nbsp;
+  <a href="mailto:ahyannubaid1003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail"/>
   </a>
 </p>
