@@ -11,16 +11,19 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/_ahyannn">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45">
+  <a href="https://instagram.com/_ahyannn" style="margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="55">
   </a>
-  <a href="https://tiktok.com/@_ahyannn">
-    <img src="https://cdn.simpleicons.org/tiktok/white" height="45">
+
+  <a href="https://tiktok.com/@_ahyannn" style="margin: 0 8px;">
+    <img src="https://cdn.simpleicons.org/tiktok/white" height="55">
   </a>
-  <a href="https://linkedin.com/in/ahyan-n-369458374">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45">
+
+  <a href="https://www.linkedin.com/in/ahyan-n-369458374" style="margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55">
   </a>
-  <a href="mailto:ahyannubaid1003@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45">
+
+  <a href="mailto:ahyannubaid1003@gmail.com" style="margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55">
   </a>
 </p>
