@@ -14,18 +14,18 @@
 
 <p align="center">
   <a href="https://instagram.com/_ahyannn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram"/>
+    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="36" height="36" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://tiktok.com/@_ahyannn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" height="40" alt="TikTok"/>
+    <img src="https://api.iconify.design/logos:tiktok-icon.svg" width="36" height="36" alt="TikTok"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahyan-n-369458374" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn"/>
+    <img src="https://api.iconify.design/skill-icons:linkedin.svg" width="36" height="36" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:ahyannubaid1003@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail"/>
+    <img src="https://api.iconify.design/skill-icons:gmail-light.svg" width="36" height="36" alt="Gmail"/>
   </a>
 </p>
