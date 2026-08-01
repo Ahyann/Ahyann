@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/_ahyannn" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram"/></a>
+  <a href="https://instagram.com/_ahyannn" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" style="vertical-align: middle;" alt="Instagram"/></a>
   &nbsp;&nbsp;
-  <a href="https://tiktok.com/@_ahyannn" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" width="36" align="center" alt="TikTok"/></a>
+  <a href="https://tiktok.com/@_ahyannn" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/white" width="36" style="vertical-align: middle;" alt="TikTok"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahyan-n-369458374" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ahyan-n-369458374" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" style="vertical-align: middle;" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:ahyannubaid1003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail"/></a>
+  <a href="mailto:ahyannubaid1003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" style="vertical-align: middle;" alt="Gmail"/></a>
 </p>
