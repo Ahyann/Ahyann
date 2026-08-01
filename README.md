@@ -11,37 +11,16 @@
 </p>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://instagram.com/_ahyannn">
-          <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50">
-        </a>
-      </td>
-
-      <td width="25"></td>
-
-      <td align="center">
-        <a href="https://tiktok.com/@_ahyannn">
-          <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="50">
-        </a>
-      </td>
-
-      <td width="25"></td>
-
-      <td align="center">
-        <a href="https://www.linkedin.com/in/ahyan-n-369458374">
-          <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50">
-        </a>
-      </td>
-
-      <td width="25"></td>
-
-      <td align="center">
-        <a href="mailto:ahyannubaid1003@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://instagram.com/_ahyannn">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@_ahyannn">
+    <img src="https://cdn.simpleicons.org/tiktok/white" width="45" alt="TikTok"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahyan-n-369458374">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahyannubaid1003@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/>
+  </a>
 </p>
